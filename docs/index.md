@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Photo Shop documents"
-  text: "Here are User Guides,API Reference and Learning notes for My Photo Shop."
+  name: "My Photo Shop"
+  text: "Hello!"
   tagline: My great project tagline
   actions:
     - theme: brand
