@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base:'/MyPhotoShop/',
   title: "My Photo Shop documents",
   description: "Here are User Guides,API Reference and Learning notes for My Photo Shop.",
   themeConfig: {
